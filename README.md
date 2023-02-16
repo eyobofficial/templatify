@@ -22,3 +22,8 @@ source venv/bin/activate
 ```
 templatify assets <your-filename.html>
 ```
+
+* To convert internal hyperlinks:
+```
+templatify links <your-filename.html>
+```
